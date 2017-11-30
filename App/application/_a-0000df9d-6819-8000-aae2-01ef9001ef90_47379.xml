@@ -15,12 +15,7 @@
             <system>false</system>
             <unlogged>false</unlogged>
         </visibility>
-        <typedValue>
-            <type>
-                <name>int</name>
-                <namespace>http://www.w3.org/2001/XMLSchema</namespace>
-            </type>
-        </typedValue>
+        
         <isEnvironmentSpecific>false</isEnvironmentSpecific>
     </constant>
     <roleMap public="true">
