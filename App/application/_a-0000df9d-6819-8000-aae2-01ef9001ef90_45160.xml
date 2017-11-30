@@ -7,13 +7,7 @@
         <description>Sample Folder</description>
         <parentUuid>SYSTEM_RULES_ROOT</parentUuid>
         <visibility>
-            <advertise>false</advertise>
-            <hierarchy>true</hierarchy>
-            <indexable>true</indexable>
-            <quota>false</quota>
-            <searchable>true</searchable>
-            <system>false</system>
-            <unlogged>false</unlogged>
+            
         </visibility>
     </rulesFolder>
     <roleMap public="true">
